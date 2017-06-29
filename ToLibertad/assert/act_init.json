@@ -1,0 +1,11 @@
+{
+    "id":"init",
+    "img": {
+        "bg_market":"images/bg/bg_market.jpg"
+    },
+    "scripts":[
+        {"a":"bg", "value":"bg_market"},
+        {"a":"pause","value":"10"},
+        {"a":"goto", "value":"scena1"}
+    ]
+}

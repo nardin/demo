@@ -1,0 +1,19 @@
+{
+    "id":"end",
+    "img": {
+        "bg3":"imgs/bg3.jpg",
+        "bg4":"imgs/bg3.jpg"
+    },
+    "scripts":[
+        {"a":"bg", "value":"bg1"},
+        {"a":"say", "value":"Hi. My name is Josh. It's a pleasure to meet you."},
+        {"a":"say", "value":"Hi Josh. I'm glad to be here."},
+        {"a":"say", "value":"I didn't have any problems. I found directions on the internet so it was pretty easy to find. However, the traffic was not that great."},
+        {"a":"say", "value":"Traffic is never good around here."},
+        {"a":"say", "value":"I agree. It would be great if there was a train or a subway line that went through here."},
+        {"a":"say", "value":"That would be so great. I would definitely take the train if they had it."},
+        {"a":"say", "value":"Trains are great because you can read a book or get a little rest instead of having to fight the traffic."},
+        {"a":"say", "value":"Very true. Well, let me begin by telling you about our company..."},
+        {"a":"goto", "value":"init"}
+    ]
+}
